@@ -1,0 +1,10 @@
+C:\Users\62821\source\repos\TP_Modul_3\TP_Modul_3\bin\Debug\TP_Modul_3.exe.config
+C:\Users\62821\source\repos\TP_Modul_3\TP_Modul_3\bin\Debug\TP_Modul_3.exe
+C:\Users\62821\source\repos\TP_Modul_3\TP_Modul_3\bin\Debug\TP_Modul_3.pdb
+C:\Users\62821\source\repos\TP_Modul_3\TP_Modul_3\obj\Debug\TP_Modul_3.csproj.AssemblyReference.cache
+C:\Users\62821\source\repos\TP_Modul_3\TP_Modul_3\obj\Debug\TP_Modul_3.Form1.resources
+C:\Users\62821\source\repos\TP_Modul_3\TP_Modul_3\obj\Debug\TP_Modul_3.Properties.Resources.resources
+C:\Users\62821\source\repos\TP_Modul_3\TP_Modul_3\obj\Debug\TP_Modul_3.csproj.GenerateResource.cache
+C:\Users\62821\source\repos\TP_Modul_3\TP_Modul_3\obj\Debug\TP_Modul_3.csproj.CoreCompileInputs.cache
+C:\Users\62821\source\repos\TP_Modul_3\TP_Modul_3\obj\Debug\TP_Modul_3.exe
+C:\Users\62821\source\repos\TP_Modul_3\TP_Modul_3\obj\Debug\TP_Modul_3.pdb
